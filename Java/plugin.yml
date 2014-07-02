@@ -1,0 +1,36 @@
+name: Tutorial
+main: com.cadiducho.dev.Tutorial.Tutorial
+version: 1.0
+author: Cadiducho
+commands:
+  hola:
+      description: Te dice hola
+      usage: /hola
+  servicio:
+      descripcion: sad
+      usage: /servicio
+  heal:
+      descripcion: Te cura
+      usage: /heal <jugador>
+  feed:
+      descripcion: Te cura
+      usage: /feed <jugador>
+  ayuda:
+      descripcion: Te cura
+      usage: /feed <jugador>
+  admins:
+      description: Los administradores
+      usage: /admins
+  addadmin:
+      description: Los administradores
+      usage: /admins      
+  deladmin:
+      description: Los administradores
+      usage: /admins      
+  solicitaradmin:
+      description: Los administradores
+      usage: /admins      
+ 
+ 
+      
+   
